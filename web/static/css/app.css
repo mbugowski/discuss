@@ -1,0 +1,15 @@
+/* This file is for your main application css. */
+
+nav {
+  margin-bottom: 0.5rem;
+}
+.help-block {
+  color: red;
+  text-transform: capitalize;
+  position: absolute;
+  top: 38px;
+}
+
+.form-group {
+  position: relative;
+}
